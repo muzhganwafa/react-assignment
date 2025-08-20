@@ -1,4 +1,4 @@
-/* Navbar.module.css */
+
 .navbar {
   padding: 1rem;
   background-color: #333;
@@ -13,3 +13,4 @@
   list-style: none;
   gap: 1rem;
 }
+
